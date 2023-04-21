@@ -29,9 +29,7 @@ public class Cat {
   }
 
   public String getAge() {
-   {
       return checkEscalationLevel();
-    } 
   }
 
   private String checkEscalationLevel() {
